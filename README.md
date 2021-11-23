@@ -1,4 +1,4 @@
-## Hi, my name is Raquel Botelho and I'm a programming and technology student!
+## Hiii, my name is Raquel Botelho!
 
 ![](https://komarev.com/ghpvc/?username=RaquelBotelhoof&color=blueviolet)  
 
