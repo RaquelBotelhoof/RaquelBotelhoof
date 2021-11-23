@@ -1,5 +1,17 @@
-## Oi eu sou a Raquel Botelho, estudante de programação e tecnologia!
+## Hi, my name is Raquel Botelho and I'm a programming and technology student!
 
+![](https://komarev.com/ghpvc/?username=RaquelBotelhoof&color=blueviolet)  
+
+💻 Back-end developer
+
+🏡 São Bernardo do Campo - São Paulo, Brazil
+
+📚 I am currently learning SQL, JAVA.
+
+📤 Goals 2021: Create an open source project!
+
+ ##
+ 
 <div>
   <a href="https://github.com/RaquelBotelhoof">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelBotelhoof&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,12 +26,10 @@
 </div>
   
 ##
-
-  ![](https://komarev.com/ghpvc/?username=RaquelBotelhoof&color=blueviolet)  
   
 <div>
   <a href="https://www.instagram.com/raquel_botelhoof/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatoraquel.botelhoof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:raquel.botelhoof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raquel-botelho-2a0ab816a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
