@@ -6,7 +6,7 @@
 
 🏡 São Bernardo do Campo - São Paulo, Brazil
 
-📚 I am currently learning SQL, JAVA.
+📚 I am currently learning Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL e MongoDB.
 
 📤 Goals 2021: Create an open source project!
 
