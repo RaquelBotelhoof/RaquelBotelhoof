@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=RaquelBotelhoof&color=blueviolet)  
 
-💻 Back-end developer
+💻  Back-end development student
 
 🏡 São Bernardo do Campo - São Paulo, Brazil
 
