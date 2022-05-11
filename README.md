@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=RaquelBotelhoof&color=blueviolet)  
 
-💻 Backend development 
+💻 Backend Developer
 
 🏡 São Paulo, Brazil
 
