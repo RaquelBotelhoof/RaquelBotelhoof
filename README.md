@@ -2,14 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=RaquelBotelhoof&color=blueviolet)  
 
-💻 Backend Developer
-
-🏡 São Paulo, Brazil
-
-📚 I am currently learning Java and OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL e MongoDB.
-
-📤 Goals 2022: participate in an open source project!
-
  ##
  
 <div>
