@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=RaquelBotelhoof&color=blueviolet)  
 
- ##
  
 <div>
   <a href="https://github.com/RaquelBotelhoof">
