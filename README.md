@@ -3,7 +3,7 @@
 
 [![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars, drawing of a ballerina and a cat in the left, the text "Amanda P. Pinha" in the center, and Linkedin url on the top right](poster_galaxy-2.gif)](https://www.linkedin.com/in/raquel-botelho-2a0ab816a/)
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=da70d6&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+My+name+is+Raquel+Botelho;I'm+23+years+old;I+live+in+Brazil+and+I'm+passionate+about+technology;Thanks+for+visiting!!!+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=da70d6&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+my+name+is+Raquel+Botelho;I'm+23+years+old;I+live+in+Brazil+and+I'm+passionate+about+technology;Thanks+for+visiting!!!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RaquelBotelhoof&show_icons=true&count_private=true&hide_border=true&title_color=da70d6&icon_color=da70d6&text_color=c9d1d9&bg_color=0d1117" alt="Raquel Botelho github stats" /> 
