@@ -33,3 +33,8 @@
 ![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
+##
+<div align="center"> 
+  <a href = "https://nadei.42sp.org.br/%22%3E<img align="center" alt="Isa-C" height="30" width="40" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
+</div>
