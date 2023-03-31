@@ -10,10 +10,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelBotelhoof&layout=compact&hide_border=true&title_color=da70d6&text_color=da70d6&bg_color=0d1117" />
 </div>
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RaquelBotelhoof&bg_color=0d1117&color=7b68ee&line=a020f0&point=87ceeb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RaquelBotelhoof&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -34,7 +30,13 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-##
+###
 <div align="center"> 
-  <a href = "https://nadei.42sp.org.br/%22%3E<img align="center" alt="Isa-C" height="30" width="40" src="https://nadei.42sp.org.br/img/InsigneaP3.png" target="_blank"></a> 
+  <hr>
+  <a href="https://nadei.42sp.org.br/">
+    <img src="https://nadei.42sp.org.br/img/InsigneaP3.png" alt="raquel" height="75" width="75">
+  </a> 
 </div>
+
+
+
