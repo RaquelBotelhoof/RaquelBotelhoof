@@ -27,8 +27,12 @@
   <hr>
   <a href="https://nadei.42sp.org.br/">
     <img src="https://nadei.42sp.org.br/img/InsigneaP3.png" alt="raquel" height="80" width="80">
-  </a> 
+  </a>
+  <a href="https://github.com/RaquelBotelhoof/RaquelBotelhoof">
+    <img src="https://github.com/RaquelBotelhoof/RaquelBotelhoof/raw/main/Prancheta_3.png" alt="one" height="80" width="80">
+  </a>
 </div>
+
 
 
 
